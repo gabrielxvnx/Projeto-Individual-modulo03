@@ -1,0 +1,98 @@
+{
+    "livro": [
+      {
+        "livro_id": 1, 
+        "nome": "Neuromancer: 1", 
+        "autor": "William Gibson", 
+        "anoPublicacao": 2016, 
+        "precoVenda": 29.90, 
+        "precoAluguel": 15.22, 
+        "descricao": "O Céu sobre o porto tinha cor de televisão num canal fora do ar. Considerada a obra precursora do movimento cyberpunk e um clássico da ficção científica moderna, Neuromancer conta a história de Case, um cowboy do ciberespaço e hacker da matrix. Como punição por tentar enganar os patrões, seu sistema nervoso foi contaminado por uma toxina que o impede de entrar no mundo virtual.", 
+        "quantVenda": 30, 
+        "quantAluguel":10, 
+        "editora_id": 1, 
+        "categoria_id": 3
+    },
+    {
+        "livro_id": 2, 
+        "nome": "A garota do lago", 
+        "autor": "Marco A. Furlan de Souza", 
+        "anoPublicacao": 2017, 
+        "precoVenda": 19.90, 
+        "precoAluguel": 10.22, 
+        "descricao": "Summit Lake, uma pequena cidade entre montanhas, é esse tipo de lugar, bucólico e com encantadoras casas dispostas à beira de um longo trecho de água intocada.Duas semanas atrás, a estudante de direito Becca Eckersley foi brutalmente assassinada em uma dessas casas. Filha de um poderoso advogado, Becca estava no auge de sua vida. Atraída instintivamente pela notícia, a repórter Kelsey Castle vai até a cidade para investigar o caso.", 
+        "quantVenda": 30, 
+        "quantAluguel":10, 
+        "editora_id": 2, 
+        "categoria_id": 1
+    },
+    {
+        "livro_id": 3, 
+        "nome": "O Priorado da Laranjeira: A Maga", 
+        "autor": "Samantha Shannon", 
+        "anoPublicacao": 2022, 
+        "precoVenda": 47.61, 
+        "precoAluguel": 23.22, 
+        "descricao": "Nas terras de Seiiki, a Leste, a jovem Tané passou a vida treinando para ser capaz de montar em dragões. Para os povos do Leste, dragões são adorados como seres divinos. Então, ao conquistar seu sonho, todas as portas estariam abertas para Tané. Certo dia, surge em seu caminho um náufrago vindo do Oeste. Ela não o entrega às autoridades, como exigido pela lei, o que pode trazer duras consequências.", 
+        "quantVenda": 30, 
+        "quantAluguel":10, 
+        "editora_id": 3, 
+        "categoria_id": 2
+    },
+    {
+        "livro_id": 4, 
+        "nome": "A maldição do mar", 
+        "autor": "Shea Ernshaw", 
+        "anoPublicacao": 2017, 
+        "precoVenda": 23.90, 
+        "precoAluguel": 12.22, 
+        "descricao": "Quando corpos de garotos começam a aparecer no litoral da cidade de Sparrow, alguns moradores se perguntam se a antiga lenda sobre as bruxas vingativas seria verdade. Mas até onde essa caça às bruxas pode levar?", 
+        "quantVenda": 30, 
+        "quantAluguel":10, 
+        "editora_id": 4, 
+        "categoria_id": 1
+    }
+    ],
+
+    "categoria": [
+    {
+        "id": 1,
+        "categoria": "Terror"
+    },
+    {
+        "id": 2,
+        "categoria": "Fantasia"
+    },
+    {
+        "id": 3,
+        "categoria": "Ficção Científica"
+    },
+    {
+        "id": 4,
+        "categoria": "Didático"
+    }
+    ],
+
+    "editora": [
+          {
+            "id": 1,
+            "nome": "Faro Editorial Eireli"
+          },
+          {
+            "id": 2,
+            "nome": "Editora Aleph"
+          },
+          {
+            "id": 3,
+            "nome": "Plataforma21"
+          },
+          {
+            "id": 4,
+            "nome": "Galera"
+          }
+      ]
+
+}
+
+
+
